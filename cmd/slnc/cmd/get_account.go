@@ -22,7 +22,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/gagliardetto/solana-go"
+	"github.com/3thix/solana-go"
 
 	"github.com/spf13/cobra"
 )

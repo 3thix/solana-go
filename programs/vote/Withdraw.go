@@ -20,8 +20,8 @@ import (
 	"fmt"
 
 	bin "github.com/gagliardetto/binary"
-	"github.com/gagliardetto/solana-go"
-	"github.com/gagliardetto/solana-go/text/format"
+	"github.com/3thix/solana-go"
+	"github.com/3thix/solana-go/text/format"
 	"github.com/gagliardetto/treeout"
 )
 

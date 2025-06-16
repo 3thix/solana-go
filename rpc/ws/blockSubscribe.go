@@ -18,8 +18,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/gagliardetto/solana-go"
-	"github.com/gagliardetto/solana-go/rpc"
+	"github.com/3thix/solana-go"
+	"github.com/3thix/solana-go/rpc"
 )
 
 type BlockResult struct {
